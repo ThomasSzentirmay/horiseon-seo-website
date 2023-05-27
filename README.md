@@ -26,6 +26,8 @@ Code edited by Repoistory owner, Thomas Szentirmay
 
 MIT License
 
+Refer to 'License' in Repo for further information on the limitations and usability of this wesbite under the MIT license applied to the project.
+
 # Badges
 
 N/A
