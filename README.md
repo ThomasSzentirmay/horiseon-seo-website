@@ -12,7 +12,9 @@ A challenge faced was the first link in the nav bar not working. To fix this bug
 
 Website has been deployed via GitHub pages. Accessible via: https://thomasszentirmay.github.io/horiseon-seo-website/
 
-![Screenshot (4) - Copy](https://github.com/ThomasSzentirmay/horiseon-seo-website/assets/132217664/4f770cc4-0bf9-40f1-86db-0664ee118511)
+![pic 1](https://github.com/ThomasSzentirmay/horiseon-seo-website/assets/132217664/37caaeed-8ab9-432e-924b-ed4f27dfa7bc)
+![pic 2](https://github.com/ThomasSzentirmay/horiseon-seo-website/assets/132217664/12ea70ad-5844-4ecf-9feb-3e6cbf8fe200)
+![pic 3](https://github.com/ThomasSzentirmay/horiseon-seo-website/assets/132217664/0cb17453-a98c-41f2-94ec-4135b540a87c)
 
 # Usage
 
