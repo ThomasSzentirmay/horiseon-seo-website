@@ -32,7 +32,7 @@ nav {
     font-size: 20px;
 }
 
-/* Changed to nav so he above code worked */
+/* Changed to nav so he above code worked (see comment in HTML code relating to nav change)*/
 
 ul {
     list-style-type: none;
@@ -88,7 +88,7 @@ aside {
     background-color: #2589bd;
 }
 
-/* Selector changed to 'aside' in HTML, so also changed here in CSS */
+/* Selector changed to 'aside' in HTML (see comment in HTML code), so also changed here in CSS */
 
 .benefit {
     margin-bottom: 32px;
@@ -135,7 +135,7 @@ footer {
     text-align: center;
 }
 
-/* footer selector was assigned in HTML, so also above */
+/* footer selector was assigned in HTML (see comment in HTML code), so also above */
 
 h2 {
     font-size: 20px;
