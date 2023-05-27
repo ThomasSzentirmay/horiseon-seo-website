@@ -102,6 +102,8 @@ aside {
     max-width: 150px;
 }
 
+/* Organised code by assigning the .benefit class in HTML code. This allowed me to eliminate 6 blocks of code above. */
+
 .section-content {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +121,8 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* consolidated classes with the .section class assigned in HTML. This allowed me to elminate 6 entire blocks of code that previously existed above. */
 
 footer {
     padding: 30px;
